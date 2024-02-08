@@ -1,4 +1,4 @@
-# Accommodation Booking Platform - Gobnb
+# gobnb
 
 This repository contains the implementation of a platform for offering and booking accommodations. This project is part of the Service-Oriented Architectures and NoSQL Databases course, as well as the Information Security and Software Development Methodologies.
 
